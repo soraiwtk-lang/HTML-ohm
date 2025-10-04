@@ -1,4 +1,3 @@
-# HTML-ohm
 <!DOCTYPE html>
 <html lang="th">
 <head>
